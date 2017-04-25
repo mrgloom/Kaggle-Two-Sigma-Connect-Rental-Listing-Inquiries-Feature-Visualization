@@ -12,12 +12,20 @@ Network weights can be downloaded from:
 - http://places.csail.mit.edu/downloadCNN.html
 
 Results:
+
 pca imagenet
+
 ![alt tag](https://github.com/mrgloom/Two-Sigma-Connect-Rental-Listing-Inquiries-Feature-Visualization/blob/master/feature_extraction_example/misc/pca_2d_alexnet_imagenet.png)
+
 pca mit places
+
 ![alt tag](https://github.com/mrgloom/Two-Sigma-Connect-Rental-Listing-Inquiries-Feature-Visualization/blob/master/feature_extraction_example/misc/pca_2d_alexnet_mit_places.png)
+
 t-sne imagenet
+
 ![alt tag](https://github.com/mrgloom/Two-Sigma-Connect-Rental-Listing-Inquiries-Feature-Visualization/blob/master/feature_extraction_example/misc/t_sne_2d_alexnet_imagenet.png)
+
 t-sne mit places
+
 ![alt tag](https://github.com/mrgloom/Two-Sigma-Connect-Rental-Listing-Inquiries-Feature-Visualization/blob/master/feature_extraction_example/misc/t_sne_2d_alexnet_mit_places.png)
 
